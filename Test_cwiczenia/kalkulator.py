@@ -11,3 +11,6 @@ def podziel(a, b):
     if b == 0:
         raise ValueError("Nie można dzielić przez zero!")
     return a / b
+
+def potega(a, b):
+return a ** b
