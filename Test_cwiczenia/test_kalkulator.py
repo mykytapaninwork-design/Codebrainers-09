@@ -9,3 +9,5 @@ def test_dodaj():
 
 def test_dodaj2():
     assert dodaj(1, 1) == 2
+
+    git config --global  "Mykyta Panin"
